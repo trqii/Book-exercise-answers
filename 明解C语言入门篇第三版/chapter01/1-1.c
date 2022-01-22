@@ -1,7 +1,8 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main(void)
 {
-	printf("15 ¼õÈ¥ 37 µÄ½á¹ûÊÇ %d¡£\n", 15 - 37);
+	printf("15 å‡å» 37 çš„ç»“æœæ˜¯ %dã€‚\n", 15 - 37);
+
 	return 0;
 }
