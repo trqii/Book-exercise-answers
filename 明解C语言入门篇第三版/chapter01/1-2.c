@@ -1,8 +1,8 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main(void)
 {
-	printf("Ìì\nµØ\nÈË\n");
+	printf("å¤©\nåœ°\näºº\n");
 
 	return 0;
 }
